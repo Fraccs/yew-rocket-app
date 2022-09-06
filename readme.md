@@ -4,6 +4,8 @@
 
 ## Stack
 
+> *Some elements of the stack may change depending on my future needs.*
+
 ### Frontend:
 
 - FE framework: <a href="https://yew.rs/" target="_blank">Yew</a>
