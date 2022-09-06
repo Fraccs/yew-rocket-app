@@ -24,7 +24,7 @@
 
 ### Frontend:
 
-*Development with live-reload with the following command:*
+*Develop the front-end in live-reload mode with the following command:*
 
 > ```trunk serve --open```
 
