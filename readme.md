@@ -12,6 +12,8 @@
 
 - HTTP Requests: <a href="https://docs.rs/reqwest/latest/reqwest/" target="_blank">Reqwest</a>
 
+- CSS: <a href="https://tailwindcss.com" target="_blank">TailwindCSS</a>
+
 ### Backend:
 
 - ORM: <a href="https://diesel.rs/" target="_blank">Diesel</a>
