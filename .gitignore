@@ -2,6 +2,7 @@
 # will have compiled files and executables
 target/
 node_modules/
+**/output.css
 **/package-lock.json
 .env
 
