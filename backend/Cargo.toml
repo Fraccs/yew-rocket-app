@@ -1,0 +1,17 @@
+[package]
+name = "rocket-app"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1.6.0"
+rocket_contrib = "0.4.10"
+serde = "1.0.144"
+diesel = { version = "2.0.0", features = ["postgres"] }
+dotenvy = "0.15"
+
+[dependencies.rocket]
+version = "0.5.0-rc.1"
+features = ["json"]
